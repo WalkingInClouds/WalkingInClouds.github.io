@@ -1,7 +1,10 @@
-**详细描述**
------------------
-提交 PR 前，请确认以下是否已完成：
+Fix issues:
 
-* [ ] 分支是从最新 ‘master’ 拉去下来的 (如果不是，请先 rebase/merge 它)
------------------
-补充说明:
+Improvements and changes:
+
+Test instructions:
+
+Reviewer:
+
+
+Tester:
